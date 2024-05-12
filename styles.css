@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    color: navy;
+}
+
+p {
+    color: darkgreen;
+}
+
+ul {
+    color: darkred;
+}
+
+img {
+    display: block;
+    margin-top: 20px;
+}
